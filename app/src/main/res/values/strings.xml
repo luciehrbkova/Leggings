@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LuciesLeggins</string>
+<!--    fashion-->
+    <string name="fashiontext">Select the colour!</string>
+    <string name="amber_color">amber</string>
+    <string name="cyan_color">cyan</string>
+    <string name="purple_color">purple</string>
+    <string name="rainbow_color">rainbow</string>
+
+
+</resources>
